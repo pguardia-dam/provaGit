@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provagit\\holacesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\holacesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|c:\\users\\nico\\desktop\\nick\\provagit\\provagit\\provagit\\holaalex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\holaalex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provagit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provagit\\holacesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\holacesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,10 +38,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
@@ -50,44 +46,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HolaAlex.cs",
               "DocumentMoniker": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\HolaAlex.cs",
               "RelativeDocumentMoniker": "provaGit\\HolaAlex.cs",
               "ToolTip": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\HolaAlex.cs",
               "RelativeToolTip": "provaGit\\HolaAlex.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T18:46:13.032Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HolaCesc.cs",
               "DocumentMoniker": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\HolaCesc.cs",
               "RelativeDocumentMoniker": "provaGit\\HolaCesc.cs",
               "ToolTip": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\HolaCesc.cs",
               "RelativeToolTip": "provaGit\\HolaCesc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD9SURBVDhP7Y\u002B9asJgGIWfRD6LEPACCgWhQeykEKSjY8gFxD8QHMS1t\u002BFgcXFz6FakSG/AG9BOksUM0qHtUhqKkEmQ16H1Q6Q0uPtMB87hvOeFM5rF20JaTy0pDApi39tSH9dl70XrSPKDvBxrAAMgeA\u002BkNqlRvizTLrbJXmRZfi2plqpGtI7EGTn7vCadShPehQYAneeOeA\u002BexHGsmw/5b4EJMP\u002BY4167WJb103gCJoAyFcpUxx78XnRGDpvthlw/p/XhCprjpviP/p/zSXjBAJi9zqQxaeDaLv6Nj0opgs\u002BA7m038SUdmIZTGb4MWX2vyKgMlasKPa\u002BXWHAGdt/Acu2QGdhLAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-11-11T18:41:28.238Z"
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:41:28.238Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\MainWindow.xaml",
               "RelativeDocumentMoniker": "provaGit\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\MainWindow.xaml",
               "RelativeToolTip": "provaGit\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-11T18:30:07.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T18:30:07.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "provaGit\\MainWindow.xaml.cs",
@@ -95,8 +95,7 @@
               "RelativeToolTip": "provaGit\\MainWindow.xaml.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T18:30:05.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T18:30:05.868Z"
             }
           ]
         }
