@@ -12,5 +12,10 @@ namespace provaGit
         {
             Console.WriteLine("Hola Cesc!");
         }
+
+        static bool Cesc()
+        {
+            return true;
+        }
     }
 }
