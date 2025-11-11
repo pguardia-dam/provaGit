@@ -31,5 +31,11 @@ namespace provaGit
         {
             return a + b;
         }
+
+        public bool EsPar(int numero)
+        {
+            return numero % 2 == 0;
+        }   
+
     }
 }
