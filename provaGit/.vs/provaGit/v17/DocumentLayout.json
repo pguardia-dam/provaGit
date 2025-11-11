@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\",
+  "WorkspaceRootPath": "C:\\Users\\paugu\\Desktop\\pau\\provaGit\\provaGit\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|c:\\users\\nico\\desktop\\nick\\provagit\\provagit\\provagit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provagit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+=======
+      "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|c:\\users\\paugu\\desktop\\pau\\provagit\\provagit\\provagit\\holacesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\holacesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|c:\\users\\paugu\\desktop\\pau\\provagit\\provagit\\provagit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|C:\\Users\\paugu\\Desktop\\pau\\provaGit\\provaGit\\provagit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+>>>>>>> 82fc4d414ae9b5b228c3d0d9c10d4687553b9b38
       "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -18,8 +30,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HolaCesc.cs",
+              "DocumentMoniker": "C:\\Users\\paugu\\Desktop\\pau\\provaGit\\provaGit\\provaGit\\HolaCesc.cs",
+              "RelativeDocumentMoniker": "provaGit\\HolaCesc.cs",
+              "ToolTip": "C:\\Users\\paugu\\Desktop\\pau\\provaGit\\provaGit\\provaGit\\HolaCesc.cs",
+              "RelativeToolTip": "provaGit\\HolaCesc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:34:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\paugu\\Desktop\\pau\\provaGit\\provaGit\\provaGit\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "provaGit\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\paugu\\Desktop\\pau\\provaGit\\provaGit\\provaGit\\MainWindow.xaml.cs",
+              "RelativeToolTip": "provaGit\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:30:05.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{ba58fdf3-7af7-4b60-b69b-40ac68d83b75}"
@@ -37,19 +83,16 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\paugu\\Desktop\\pau\\provaGit\\provaGit\\provaGit\\MainWindow.xaml",
               "RelativeDocumentMoniker": "provaGit\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\paugu\\Desktop\\pau\\provaGit\\provaGit\\provaGit\\MainWindow.xaml",
               "RelativeToolTip": "provaGit\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-11T18:30:07.473Z"
+<<<<<<< HEAD
             },
             {
               "$type": "Document",
@@ -63,6 +106,8 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T18:30:05.868Z",
               "EditorCaption": ""
+=======
+>>>>>>> 82fc4d414ae9b5b228c3d0d9c10d4687553b9b38
             }
           ]
         }
