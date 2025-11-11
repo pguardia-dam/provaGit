@@ -26,5 +26,10 @@ namespace provaGit
         }
 
         // Nuevo comentario para commit67
+
+        public int Sumar(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
