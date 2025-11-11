@@ -1,0 +1,15 @@
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\bin\Debug\provaGit.exe.config
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\bin\Debug\provaGit.exe
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\bin\Debug\provaGit.pdb
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\provaGit.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\MainWindow.g.cs
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\App.g.cs
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\provaGit_MarkupCompile.cache
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\provaGit_MarkupCompile.lref
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\MainWindow.baml
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\provaGit.g.resources
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\provaGit.Properties.Resources.resources
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\provaGit.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\provaGit.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\provaGit.exe
+C:\Users\Nico\Desktop\nick\provaGit\provaGit\provaGit\obj\Debug\provaGit.pdb

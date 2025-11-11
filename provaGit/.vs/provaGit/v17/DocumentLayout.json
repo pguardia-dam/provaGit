@@ -3,6 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\paugu\\Desktop\\pau\\provaGit\\provaGit\\",
   "Documents": [
     {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|c:\\users\\nico\\desktop\\nick\\provagit\\provagit\\provagit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provagit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+=======
+      "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|c:\\users\\paugu\\desktop\\pau\\provagit\\provagit\\provagit\\holacesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\holacesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> refs/remotes/origin/main
       "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|c:\\users\\paugu\\desktop\\pau\\provagit\\provagit\\provagit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -12,6 +26,7 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|C:\\Users\\paugu\\Desktop\\pau\\provaGit\\provaGit\\provagit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+>>>>>>> 82fc4d414ae9b5b228c3d0d9c10d4687553b9b38
       "RelativeMoniker": "D:0:0:{AF8C459D-A550-45AE-903F-87026AA3DE33}|provaGit\\provaGit.csproj|solutionrelative:provagit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -83,6 +98,22 @@
               "RelativeToolTip": "provaGit\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-11T18:30:07.473Z"
+<<<<<<< HEAD
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "provaGit\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nico\\Desktop\\nick\\provaGit\\provaGit\\provaGit\\MainWindow.xaml.cs",
+              "RelativeToolTip": "provaGit\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:30:05.868Z",
+              "EditorCaption": ""
+=======
+>>>>>>> 82fc4d414ae9b5b228c3d0d9c10d4687553b9b38
             }
           ]
         }
