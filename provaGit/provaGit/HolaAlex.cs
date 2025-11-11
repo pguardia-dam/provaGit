@@ -11,6 +11,9 @@ namespace provaGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Alex!");
+            Console.WriteLine("Hola Alex2!");
+
+
         }
     }
 }
